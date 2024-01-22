@@ -7,9 +7,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently student
-- 🌱 I’m currently learning DevOps on AWS
-- 👯 I’m looking to collaborate on open source python projects
+- 🔭 Machine Learning Enthusiast ...
+- 🌱 I’m a DevOps Engineer
+- 👯 
 <!-- - 🤔 I’m looking for help with DevOps Engineers
 - 💬 Ask me about Python 
 - 📫 How to reach me: 
